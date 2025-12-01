@@ -1,5 +1,5 @@
 # azure-functions-rest-api
-Desafio Bootcao DIO Azur Advanced #2
+Desafio Bootcamp DIO Azure Advanced #2
 
 # Projeto – Azure Functions + APIs Serverless | Bootcamp DIO
 
