@@ -16,23 +16,4 @@ input: name || "Teste"
 ```
 
 
----
 
-
-## host.json
-```
-{
-"version": "2.0"
-}
-```
-
-
-## local.settings.json 
-{
-"IsEncrypted": false,
-"Values": {
-"AzureWebJobsStorage": "UseDevelopmentStorage=true",
-"FUNCTIONS_WORKER_RUNTIME": "node"
-}
-}
-```
